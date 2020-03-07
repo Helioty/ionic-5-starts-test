@@ -1,0 +1,7 @@
+{
+  "name": "ion5tabs-angular9",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

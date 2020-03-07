@@ -1,0 +1,7 @@
+{
+  "name": "ion5side-angular9",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
